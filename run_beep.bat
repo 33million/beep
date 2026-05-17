@@ -1,0 +1,1 @@
+C:\Users\patri\PycharmProjects\automations\.venv\Scripts\python.exe C:\Users\patri\PycharmProjects\automations\automations\beep.py
